@@ -5,7 +5,6 @@
 - 💬 I'm a Software engineering student at Holberton School, with 2 years of experience in web development.
 - ✨ I decided to go back to school to deepen my knowledge and improve my technical and soft skills.
 - 📝 [Resume](https://github.com/Edin93/Edin93/blob/master/files/Houssem%20Eddine%20Ben%20Khalifa%20-%20Software%20Engineer%202021.pdf)
-- 📝 [Resume](https://github.com/Edin93/Edin93/blob/master/files/Houssem Eddine Ben Khalifa - Software Engineer 2021.pdf)
 
 ### What am I doing?
 
@@ -48,4 +47,3 @@
 ### My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edin93&show_icons=true&theme=gotham" alt="edin93" />
-
