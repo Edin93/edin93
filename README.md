@@ -2,15 +2,15 @@
 
 ### Who am I?
 
-- 💬 I'm a Software engineering student at Holberton School, with 2 years of experience in web development.
-- ✨ I decided to go back to school to deepen my knowledge and improve my technical and soft skills.
+- 💬 I'm working as a Software engineer.
+- I'm interested in Fullstack web development and blockchain technology.
 
 ### What am I doing?
 
-- I’m currently working on building my portfolio and improving my technical and soft skills.
-- I'm learning Software Engineering and Fullstack web development, focusing on Javascript and Python technologies.
-- I'm looking for job opportunities in the next few months, You can reach me out via my email address: `il_matador@hotmail.fr`
-- Where else you can find me:
+- I’m constantly working on building my portfolio and improving my technical and soft skills.
+- I'm focusing on improving my Algo & DS problem solving skills in JS, Python and C.
+
+- Where can you reach me out:
 
 	<a href="https://twitter.com/h_edin93">
 		<img align="left" alt="h_edin93 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
