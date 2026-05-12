@@ -10,16 +10,6 @@
 - I’m constantly working on building my portfolio and improving my technical and soft skills.
 - I'm focusing on improving my Algo & DS problem solving skills in JS, Python and C.
 
-- Where can you reach me out:
-
-	<a href="https://twitter.com/h_edin93">
-		<img align="left" alt="h_edin93 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-	</a>
-	<a href="https://www.linkedin.com/in/houssem-eddine-ben-khalifa-b0a2a412b/">
-		<img align="left" alt="Houssem Eddine's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-	</a>
-
-<br />
 
 ### Languages and Tools that I've worked with / studied:
 
