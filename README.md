@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-- 💬 I'm working as a Software engineer.
+- I'm working as a Software engineer.
 - I'm interested in Fullstack web development and blockchain technology.
 
 ### What am I doing?
@@ -32,7 +32,3 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-### My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edin93&show_icons=true&theme=gotham" alt="edin93" />
